@@ -1,0 +1,7 @@
+package MakeFun01;
+
+public class ShiJie01 {
+	public static void main(String[] args) {
+		System.out.println("shijie,I love you!");
+	}
+}
